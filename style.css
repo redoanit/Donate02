@@ -104,6 +104,19 @@ hr {
     background-color: #ffe6e9;
 }
 
+#Team-member {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 120px;
+    padding: auto;
+    border-radius: 5px;
+    background-color: pink;
+}
+
+#Team-member div {
+    text-align: center;
+}
+
 #get-my-updates {
     text-align: center;
 }
