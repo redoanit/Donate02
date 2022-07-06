@@ -10,9 +10,10 @@ body h1 {
 .section1 {
     background-image: url(images/collection4.jpg);
     height: 600px;
+    margin-bottom: 40px;
 }
 
-#Heading1 {
+.Heading1 {
     text-align: center;
     margin-top: 0px;
     padding-top: 100px;
@@ -26,4 +27,119 @@ body h1 {
     font-weight: bold;
     padding: 10px 20px;
     border-radius: 7px;
+
+
+}
+
+.donateToday {
+    text-align: center;
+}
+
+.showAmount {
+    display: flex;
+    margin-left: 180px;
+    margin-top: 60px;
+
+}
+
+.showAmount div {
+
+    text-align: center;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+#t200 {
+    border: 2px solid #FF7276;
+    border-radius: 5px;
+    color: #FF7276;
+}
+
+hr {
+    width: 40%;
+    align-items: center;
+}
+
+.btn2 {
+    margin-left: 45%;
+    margin-top: 60px;
+}
+
+.section3 {
+    margin-top: 80px;
+}
+
+.ourplan1 {
+    text-align: center;
+}
+
+.ourplan2 {
+    display: flex;
+    margin-left: 150px;
+
+
+}
+
+.ourplan2 div {
+
+    margin-left: 40px;
+    width: 23%;
+    padding: 30px 10px;
+    border-radius: 5px;
+
+
+}
+
+#education-for-child {
+    background-color: #fafad2;
+}
+
+#shelter-for-family {
+    background-color: #d8ecf3;
+
+}
+
+#food-for-family {
+    background-color: #ffe6e9;
+}
+
+#get-my-updates {
+    text-align: center;
+}
+
+#email-section {
+    border: 1pt solid #99ffff;
+    border-radius: 10px;
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    background-color: #99ffff;
+
+}
+
+#email {
+    display: flex;
+    margin-top: 80px;
+    margin-left: 180px;
+}
+
+#mail {
+    border: 1px solid #99ffff;
+    border-radius: 3px;
+    background-color: pink;
+}
+
+footer {
+    margin-top: 80px;
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    height: 200px;
+    color: orangered;
+
+}
+
+footer span {
+    padding: 150px;
 }
