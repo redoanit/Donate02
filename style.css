@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body h1 {
+    font-size: 50px;
+}
+
+.section1 {
+    background-image: url(images/collection4.jpg);
+    height: 600px;
+}
+
+#Heading1 {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 100px;
+    color: whitesmoke;
+}
+
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(to right, orange, magenta);
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
